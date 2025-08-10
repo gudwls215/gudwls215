@@ -51,3 +51,17 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Transformers](https://img.shields.io/badge/🤗%20Transformers-FFD21E?style=for-the-badge)
 
+## 🌟 Open Source Contributions
+
+[![FastAPI Contributor](https://img.shields.io/badge/FastAPI-Contributor-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/fastapi/fastapi)
+[![Transformers Contributor](https://img.shields.io/badge/🤗%20Transformers-Contributor-FFD21E?style=for-the-badge)](https://github.com/huggingface/transformers)
+[![Airbnb JavaScript Guide](https://img.shields.io/badge/Airbnb%20JavaScript-Contributor-FF5A5F?style=for-the-badge&logo=airbnb&logoColor=white)](https://github.com/airbnb/javascript)
+
+### 🔗 Contribution Links
+- [**FastAPI**](https://github.com/fastapi/fastapi) - High performance, easy to learn, fast to code, ready for production
+- [**🤗 Transformers**](https://github.com/huggingface/transformers) - State-of-the-art ML models for NLP, Computer Vision, and Audio
+- [**Airbnb JavaScript Style Guide**](https://github.com/airbnb/javascript) - A mostly reasonable approach to JavaScript
+
+[![My Pull Requests](https://img.shields.io/badge/View%20My%20PRs-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/pulls?q=is%3Apr+author%3Agudwls215)
+
+[![Contributions](https://img.shields.io/badge/Contributions-Open%20Source-blue)](https://github.com/pulls?q=is%3Apr+author%3Agudwls215)
