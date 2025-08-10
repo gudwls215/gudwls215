@@ -6,7 +6,7 @@
 -  **AI 기반 솔루션**과 **웹 애플리케이션** 개발을 즐깁니다
 -  **해커톤 참여** 및 **오픈소스 기여**에 적극적입니다
 
-## 💼 주요 프로젝트
+##  주요 프로젝트
 -  **SpeakAI** - Flutter 기반 AI 음성 인식 앱
 -  **PDF Feedback** - Next.js 기반 PDF 피드백 시스템  
 -  **코트핏 (F-THON)** - 해커톤 참가작 (Java/JavaScript)
@@ -15,16 +15,16 @@
 
 
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gudwls215&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🔥 GitHub Streak
+##  GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=gudwls215&theme=radical)](https://git.io/streak-stats)
 
-## 📈 Contribution Graph
+##  Contribution Graph
 
 [![gudwls215's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gudwls215&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -49,24 +49,101 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Transformers](https://img.shields.io/badge/🤗%20Transformers-FFD21E?style=for-the-badge)
 
-##  Open Source Contributions
+## 🌟 Open Source Contributions
 
-###  Contribution Stats
-![GitHub followers](https://img.shields.io/github/followers/gudwls215?style=for-the-badge&logo=github&color=0969da)
-![GitHub User's stars](https://img.shields.io/github/stars/gudwls215?style=for-the-badge&logo=github&color=ffd33d)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/y/gudwls215/gudwls215?style=for-the-badge&logo=github&color=39d353)
+### 🎬 Animated Contribution Display
 
-###  Featured Repositories
-[![FastAPI Fork](https://img.shields.io/github/forks/gudwls215/fastapi?style=for-the-badge&logo=fastapi&label=FastAPI%20Fork&color=009688)](https://github.com/gudwls215/fastapi)
-[![Transformers Fork](https://img.shields.io/github/forks/gudwls215/transformers?style=for-the-badge&logo=huggingface&label=🤗%20Transformers&color=FFD21E&logoColor=black)](https://github.com/gudwls215/transformers)
-[![Airbnb JS Fork](https://img.shields.io/github/forks/gudwls215/airbnb?style=for-the-badge&logo=airbnb&label=Airbnb%20JS&color=FF5A5F)](https://github.com/gudwls215/airbnb)
+<!-- GitHub Profile 3D Contribution Calendar -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/gudwls215/gudwls215/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
-###  My Original Projects
-[![Ko Spell Check](https://img.shields.io/github/stars/gudwls215/ko-spell-check?style=for-the-badge&logo=python&label=Ko%20Spell%20Check&color=3776AB)](https://github.com/gudwls215/ko-spell-check)
-[![PDF Feedback](https://img.shields.io/github/languages/top/gudwls215/pdf-feedback-nextjs?style=for-the-badge&logo=next.js&label=PDF%20Feedback&color=000000)](https://github.com/gudwls215/pdf-feedback-nextjs)
-[![SpeakAI](https://img.shields.io/github/languages/top/gudwls215/speakai?style=for-the-badge&logo=flutter&label=SpeakAI&color=0175C2)](https://github.com/gudwls215/speakai)
+### 📊 Dynamic Metrics Dashboard
+<div align="center">
+  
+  <!-- Metrics with animations -->
+  <img src="https://metrics.lecoq.io/gudwls215?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FSeoul" alt="Metrics" width="400">
+  
+</div>
 
-### 🔗 Quick Links
-[![All Repositories](https://img.shields.io/badge/All%20Repositories-21-2ea043?style=for-the-badge&logo=github)](https://github.com/gudwls215?tab=repositories)
-[![Pull Requests](https://img.shields.io/badge/My%20Pull%20Requests-View-purple?style=for-the-badge&logo=github)](https://github.com/pulls?q=is%3Apr+author%3Agudwls215)
-[![Issues](https://img.shields.io/badge/My%20Issues-View-d1242f?style=for-the-badge&logo=github)](https://github.com/issues?q=is%3Aissue+author%3Agudwls215)
+### 🚀 Live Activity Tracker
+<div align="center">
+
+<!-- Activity Graph with smooth animations -->
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gudwls215&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+### 🎯 Contribution Streaks & Stats
+<div align="center">
+
+<!-- Animated streak counter -->
+<img src="https://streak-stats.demolab.com?user=gudwls215&theme=github-dark-blue&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" />
+
+</div>
+
+## 🏆 Open Source Contributions
+
+### 📋 Major Project Contributions
+<table align="center" style="border: none;">
+<tr>
+<td align="center" width="200px">
+  <div>
+    <img src="https://raw.githubusercontent.com/fastapi/fastapi/master/docs/en/docs/img/logo-margin/logo-teal.png" width="100px" alt="FastAPI"/>
+    <br><br>
+    <strong>FastAPI</strong>
+    <br>
+    <sub>High performance web framework</sub>
+    <br><br>
+    <a href="https://github.com/gudwls215/fastapi">
+      <img src="https://img.shields.io/badge/View%20Fork-006600?style=flat-square&logo=github" />
+    </a>
+  </div>
+</td>
+<td align="center" width="200px">
+  <div>
+    <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo-with-title.png" width="100px" alt="Transformers"/>
+    <br><br>
+    <strong>🤗 Transformers</strong>
+    <br>
+    <sub>State-of-the-art ML models</sub>
+    <br><br>
+    <a href="https://github.com/gudwls215/transformers">
+      <img src="https://img.shields.io/badge/View%20Fork-FF6B35?style=flat-square&logo=github" />
+    </a>
+  </div>
+</td>
+<td align="center" width="200px">
+  <div>
+    <img src="https://seeklogo.com/images/A/airbnb-logo-1D03C48906-seeklogo.com.png" width="80px" alt="Airbnb"/>
+    <br><br>
+    <strong>Airbnb JavaScript</strong>
+    <br>
+    <sub>JavaScript style guide</sub>
+    <br><br>
+    <a href="https://github.com/gudwls215/airbnb">
+      <img src="https://img.shields.io/badge/View%20Fork-FF5A5F?style=flat-square&logo=github" />
+    </a>
+  </div>
+</td>
+</tr>
+</table>
+
+### 💡 My Original Projects
+<div align="center">
+
+| Project | Description | Language | Status |
+|---------|-------------|----------|--------|
+| [**Ko Spell Check**](https://github.com/gudwls215/ko-spell-check) | 한국어 맞춤법 검사 라이브러리 | Python | ![Stars](https://img.shields.io/github/stars/gudwls215/ko-spell-check?style=flat-square&color=yellow) |
+| [**PDF Feedback**](https://github.com/gudwls215/pdf-feedback-nextjs) | PDF 피드백 시스템 | TypeScript | ![Language](https://img.shields.io/github/languages/top/gudwls215/pdf-feedback-nextjs?style=flat-square&color=blue) |
+| [**SpeakAI**](https://github.com/gudwls215/speakai) | AI 음성 인식 앱 | Dart | ![Language](https://img.shields.io/github/languages/top/gudwls215/speakai?style=flat-square&color=green) |
+
+</div>
+
+### 🌐 Connect & Explore
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gudwls215.github.io)
+[![All Repositories](https://img.shields.io/badge/All%20Repositories-View-181717?style=for-the-badge&logo=github)](https://github.com/gudwls215?tab=repositories)
+
+</div>
