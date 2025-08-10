@@ -1,4 +1,4 @@
-# 안녕하세요! 👋 I'm gudwls215
+# 안녕하세요! I'm gudwls215
 
 ##  About Me
 -  **AI/ML & Web Development**에 관심이 많은 개발자입니다
@@ -15,7 +15,7 @@
 
 
 
-##  GitHub Stats
+## GitHub Stats
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gudwls215&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
@@ -28,7 +28,7 @@
 
 [![gudwls215's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gudwls215&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -49,42 +49,10 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Transformers](https://img.shields.io/badge/🤗%20Transformers-FFD21E?style=for-the-badge)
 
-## 🌟 Open Source Contributions
 
-### 🎬 Animated Contribution Display
+##  Open Source Contributions
 
-<!-- GitHub Profile 3D Contribution Calendar -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/gudwls215/gudwls215/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
-### 📊 Dynamic Metrics Dashboard
-<div align="center">
-  
-  <!-- Metrics with animations -->
-  <img src="https://metrics.lecoq.io/gudwls215?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FSeoul" alt="Metrics" width="400">
-  
-</div>
-
-### 🚀 Live Activity Tracker
-<div align="center">
-
-<!-- Activity Graph with smooth animations -->
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gudwls215&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-### 🎯 Contribution Streaks & Stats
-<div align="center">
-
-<!-- Animated streak counter -->
-<img src="https://streak-stats.demolab.com?user=gudwls215&theme=github-dark-blue&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" />
-
-</div>
-
-## 🏆 Open Source Contributions
-
-### 📋 Major Project Contributions
+### Major Project Contributions
 <table align="center" style="border: none;">
 <tr>
 <td align="center" width="200px">
@@ -129,7 +97,7 @@
 </tr>
 </table>
 
-### 💡 My Original Projects
+### My Original Projects
 <div align="center">
 
 | Project | Description | Language | Status |
@@ -140,7 +108,7 @@
 
 </div>
 
-### 🌐 Connect & Explore
+### Connect & Explore
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gudwls215.github.io)
