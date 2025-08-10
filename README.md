@@ -17,7 +17,6 @@
 
 ## 📊 GitHub Stats
 
-![gudwls215's GitHub stats](https://github-readme-stats.vercel.app/api?username=gudwls215&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gudwls215&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -45,23 +44,29 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 
 ### AI/ML
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Transformers](https://img.shields.io/badge/🤗%20Transformers-FFD21E?style=for-the-badge)
 
-## 🌟 Open Source Contributions
+##  Open Source Contributions
 
-[![FastAPI Contributor](https://img.shields.io/badge/FastAPI-Contributor-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/fastapi/fastapi)
-[![Transformers Contributor](https://img.shields.io/badge/🤗%20Transformers-Contributor-FFD21E?style=for-the-badge)](https://github.com/huggingface/transformers)
-[![Airbnb JavaScript Guide](https://img.shields.io/badge/Airbnb%20JavaScript-Contributor-FF5A5F?style=for-the-badge&logo=airbnb&logoColor=white)](https://github.com/airbnb/javascript)
+###  Contribution Stats
+![GitHub followers](https://img.shields.io/github/followers/gudwls215?style=for-the-badge&logo=github&color=0969da)
+![GitHub User's stars](https://img.shields.io/github/stars/gudwls215?style=for-the-badge&logo=github&color=ffd33d)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/gudwls215/gudwls215?style=for-the-badge&logo=github&color=39d353)
 
-### 🔗 Contribution Links
-- [**FastAPI**](https://github.com/fastapi/fastapi) - High performance, easy to learn, fast to code, ready for production
-- [**🤗 Transformers**](https://github.com/huggingface/transformers) - State-of-the-art ML models for NLP, Computer Vision, and Audio
-- [**Airbnb JavaScript Style Guide**](https://github.com/airbnb/javascript) - A mostly reasonable approach to JavaScript
+###  Featured Repositories
+[![FastAPI Fork](https://img.shields.io/github/forks/gudwls215/fastapi?style=for-the-badge&logo=fastapi&label=FastAPI%20Fork&color=009688)](https://github.com/gudwls215/fastapi)
+[![Transformers Fork](https://img.shields.io/github/forks/gudwls215/transformers?style=for-the-badge&logo=huggingface&label=🤗%20Transformers&color=FFD21E&logoColor=black)](https://github.com/gudwls215/transformers)
+[![Airbnb JS Fork](https://img.shields.io/github/forks/gudwls215/airbnb?style=for-the-badge&logo=airbnb&label=Airbnb%20JS&color=FF5A5F)](https://github.com/gudwls215/airbnb)
 
-[![My Pull Requests](https://img.shields.io/badge/View%20My%20PRs-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/pulls?q=is%3Apr+author%3Agudwls215)
+###  My Original Projects
+[![Ko Spell Check](https://img.shields.io/github/stars/gudwls215/ko-spell-check?style=for-the-badge&logo=python&label=Ko%20Spell%20Check&color=3776AB)](https://github.com/gudwls215/ko-spell-check)
+[![PDF Feedback](https://img.shields.io/github/languages/top/gudwls215/pdf-feedback-nextjs?style=for-the-badge&logo=next.js&label=PDF%20Feedback&color=000000)](https://github.com/gudwls215/pdf-feedback-nextjs)
+[![SpeakAI](https://img.shields.io/github/languages/top/gudwls215/speakai?style=for-the-badge&logo=flutter&label=SpeakAI&color=0175C2)](https://github.com/gudwls215/speakai)
 
-[![Contributions](https://img.shields.io/badge/Contributions-Open%20Source-blue)](https://github.com/pulls?q=is%3Apr+author%3Agudwls215)
+### 🔗 Quick Links
+[![All Repositories](https://img.shields.io/badge/All%20Repositories-21-2ea043?style=for-the-badge&logo=github)](https://github.com/gudwls215?tab=repositories)
+[![Pull Requests](https://img.shields.io/badge/My%20Pull%20Requests-View-purple?style=for-the-badge&logo=github)](https://github.com/pulls?q=is%3Apr+author%3Agudwls215)
+[![Issues](https://img.shields.io/badge/My%20Issues-View-d1242f?style=for-the-badge&logo=github)](https://github.com/issues?q=is%3Aissue+author%3Agudwls215)
